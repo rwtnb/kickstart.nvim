@@ -7,4 +7,5 @@ vim.g.python3_host_prog = '~/.venv/bin/python'
 
 return {
   'github/copilot.vim',
+  'nvim-pack/nvim-spectre',
 }
